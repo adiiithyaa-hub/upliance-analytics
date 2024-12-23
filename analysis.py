@@ -88,7 +88,7 @@ def generate_business_insights(analysis_results):
     """
     insights = []
     
-    # 1. Revenue Insights
+    # 1. Revenue Insight
     meal_analysis = analysis_results['meal_analysis']
     top_meal = meal_analysis.sort_values(('Amount (USD)', 'sum'), ascending=False).index[0]
     insights.append({
