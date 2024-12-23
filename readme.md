@@ -1,4 +1,4 @@
-# Restaurant Data Analysis and Insights
+#Data Analysis and Insights
 
 This project involves analyzing restaurant data, including user sessions, cooking sessions, and order details, to generate business insights and performance metrics. The analysis includes order performance, customer demographics, location analysis, dish performance, and more. It also visualizes key insights such as order performance, revenue patterns, and customer behaviors using Plotly.
 
